@@ -12,7 +12,7 @@ Firstly, you need to download the project and using
 ```
 npm install
 ```  
-inside the directory. This will download neccesary dependencies.  
+inside the directory. This will download necessary dependencies.  
 Next step is running locally with 
 ```
 npm run dev
