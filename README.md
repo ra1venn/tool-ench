@@ -8,7 +8,7 @@ You can go and try it right now with the [site](https://mc.ra1venr.fun/) that I 
 
 or download it for yourself:  
 
-Firstly, you need to download the project and using  
+Firstly, you need to download the project and use  
 ```
 npm install
 ```  
